@@ -1,0 +1,1 @@
+/usr/bin/g++   -Wall -Wextra -O3 -DNDEBUG   CMakeFiles/flock.t.dir/source/flock.test.cpp.o CMakeFiles/flock.t.dir/source/flock.cpp.o CMakeFiles/flock.t.dir/source/boids.cpp.o  -o flock.t 

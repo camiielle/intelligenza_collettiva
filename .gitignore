@@ -1,0 +1,8 @@
+*.gch
+*.out
+*.exe
+*.o
+
+.vscode/*
+
+doctest.h

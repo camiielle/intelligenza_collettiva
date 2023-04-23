@@ -1,0 +1,1 @@
+/usr/bin/g++   -Wall -Wextra -O3 -DNDEBUG   CMakeFiles/boids.dir/source/main.cpp.o CMakeFiles/boids.dir/source/flock.cpp.o CMakeFiles/boids.dir/source/boids.cpp.o CMakeFiles/boids.dir/source/stats.cpp.o  -o boids 

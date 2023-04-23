@@ -1,0 +1,1 @@
+/usr/bin/g++   -Wall -Wextra -g -fsanitize=address -fno-omit-frame-pointer   -fsanitize=address -fno-omit-frame-pointer CMakeFiles/stats.t.dir/source/stats.test.cpp.o CMakeFiles/stats.t.dir/source/stats.cpp.o CMakeFiles/stats.t.dir/source/flock.cpp.o CMakeFiles/stats.t.dir/source/boids.cpp.o  -o stats.t 

@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/camillalazzati/intelligenza_collettiva/build",
+  "command": "/usr/bin/g++     -Wall -Wextra -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/flock.t.dir/source/flock.test.cpp.o -c /home/camillalazzati/intelligenza_collettiva/source/flock.test.cpp",
+  "file": "/home/camillalazzati/intelligenza_collettiva/source/flock.test.cpp"
+},
+{
+  "directory": "/home/camillalazzati/intelligenza_collettiva/build",
+  "command": "/usr/bin/g++     -Wall -Wextra -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/flock.t.dir/source/flock.cpp.o -c /home/camillalazzati/intelligenza_collettiva/source/flock.cpp",
+  "file": "/home/camillalazzati/intelligenza_collettiva/source/flock.cpp"
+},
+{
+  "directory": "/home/camillalazzati/intelligenza_collettiva/build",
+  "command": "/usr/bin/g++     -Wall -Wextra -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/flock.t.dir/source/boids.cpp.o -c /home/camillalazzati/intelligenza_collettiva/source/boids.cpp",
+  "file": "/home/camillalazzati/intelligenza_collettiva/source/boids.cpp"
+},
+{
+  "directory": "/home/camillalazzati/intelligenza_collettiva/build",
+  "command": "/usr/bin/g++     -Wall -Wextra -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/parameters.t.dir/source/parameters.test.cpp.o -c /home/camillalazzati/intelligenza_collettiva/source/parameters.test.cpp",
+  "file": "/home/camillalazzati/intelligenza_collettiva/source/parameters.test.cpp"
+},
+{
+  "directory": "/home/camillalazzati/intelligenza_collettiva/build",
+  "command": "/usr/bin/g++     -Wall -Wextra -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/boids.t.dir/source/boids.test.cpp.o -c /home/camillalazzati/intelligenza_collettiva/source/boids.test.cpp",
+  "file": "/home/camillalazzati/intelligenza_collettiva/source/boids.test.cpp"
+},
+{
+  "directory": "/home/camillalazzati/intelligenza_collettiva/build",
+  "command": "/usr/bin/g++     -Wall -Wextra -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/boids.t.dir/source/boids.cpp.o -c /home/camillalazzati/intelligenza_collettiva/source/boids.cpp",
+  "file": "/home/camillalazzati/intelligenza_collettiva/source/boids.cpp"
+},
+{
+  "directory": "/home/camillalazzati/intelligenza_collettiva/build",
+  "command": "/usr/bin/g++   -I/home/camillalazzati/intelligenza_collettiva/Lyra/include   -Wall -Wextra -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/boids.dir/source/main.cpp.o -c /home/camillalazzati/intelligenza_collettiva/source/main.cpp",
+  "file": "/home/camillalazzati/intelligenza_collettiva/source/main.cpp"
+},
+{
+  "directory": "/home/camillalazzati/intelligenza_collettiva/build",
+  "command": "/usr/bin/g++   -I/home/camillalazzati/intelligenza_collettiva/Lyra/include   -Wall -Wextra -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/boids.dir/source/flock.cpp.o -c /home/camillalazzati/intelligenza_collettiva/source/flock.cpp",
+  "file": "/home/camillalazzati/intelligenza_collettiva/source/flock.cpp"
+},
+{
+  "directory": "/home/camillalazzati/intelligenza_collettiva/build",
+  "command": "/usr/bin/g++   -I/home/camillalazzati/intelligenza_collettiva/Lyra/include   -Wall -Wextra -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/boids.dir/source/boids.cpp.o -c /home/camillalazzati/intelligenza_collettiva/source/boids.cpp",
+  "file": "/home/camillalazzati/intelligenza_collettiva/source/boids.cpp"
+},
+{
+  "directory": "/home/camillalazzati/intelligenza_collettiva/build",
+  "command": "/usr/bin/g++   -I/home/camillalazzati/intelligenza_collettiva/Lyra/include   -Wall -Wextra -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/boids.dir/source/stats.cpp.o -c /home/camillalazzati/intelligenza_collettiva/source/stats.cpp",
+  "file": "/home/camillalazzati/intelligenza_collettiva/source/stats.cpp"
+}
+]

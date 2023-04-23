@@ -1,0 +1,1 @@
+/usr/bin/g++   -Wall -Wextra -O3 -DNDEBUG   CMakeFiles/parameters.t.dir/source/parameters.test.cpp.o  -o parameters.t 
